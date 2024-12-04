@@ -1,0 +1,32 @@
+[2024-11-12T00:07:59.790466+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2068/update  
+
+[2024-11-12T00:57:46.312390+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-12T04:44:39.977755+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-12T05:44:41.074577+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-12T05:56:23.781541+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-12T08:05:44.870776+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-12T08:05:44.874590+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-12T08:05:44.874590+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-12T08:05:45.658708+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-12T08:05:45.862508+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-12T08:05:45.862508+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-12T08:22:02.892597+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-12T11:30:39.750758+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2086/update  
+
+[2024-11-12T12:41:00.618051+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-12T13:09:57.138769+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-12T14:53:20.584831+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+

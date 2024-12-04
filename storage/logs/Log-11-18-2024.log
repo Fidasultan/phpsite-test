@@ -1,0 +1,48 @@
+[2024-11-18T07:55:52.069172+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-18T07:59:36.110162+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-18T09:06:58.628488+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/auth  
+
+[2024-11-18T09:07:29.092364+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-18T10:50:47.813446+05:00] system.ERROR: Method not allowed -> http://shortner.live/user/login/auth  
+
+[2024-11-18T12:05:04.194841+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2098/update  
+
+[2024-11-18T12:06:17.230511+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2097/update  
+
+[2024-11-18T12:07:08.174583+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2203/update  
+
+[2024-11-18T12:08:23.841129+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2095/update  
+
+[2024-11-18T12:30:02.650521+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2100/update  
+
+[2024-11-18T12:31:26.213242+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2200/update  
+
+[2024-11-18T12:31:54.897806+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2200/update  
+
+[2024-11-18T12:32:53.856903+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2180/update  
+
+[2024-11-18T14:35:32.452056+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://redit.cfd/dxfvgd56  
+
+[2024-11-18T17:41:35.953953+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://fifa55ballz.com/fdgret54  
+
+[2024-11-18T17:41:35.953985+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://fifa55ballz.com/fdgret54  
+
+[2024-11-18T17:41:35.953997+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://fifa55ballz.com/fdgret54  
+
+[2024-11-18T17:41:36.551227+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://fifa55ballz.com/fdgret54  
+
+[2024-11-18T17:41:36.551662+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://fifa55ballz.com/fdgret54  
+
+[2024-11-18T17:41:36.803723+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://fifa55ballz.com/fdgret54  
+
+[2024-11-18T22:19:36.481064+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2203/update  
+
+[2024-11-18T22:20:15.052016+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2098/update  
+
+[2024-11-18T22:20:44.491433+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2097/update  
+
+[2024-11-18T22:20:57.572147+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2095/update  
+

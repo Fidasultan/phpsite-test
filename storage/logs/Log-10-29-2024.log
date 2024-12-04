@@ -1,0 +1,8 @@
+[2024-10-29T10:27:29.545292+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/1195/update  
+
+[2024-10-29T10:27:37.326076+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/1195/update  
+
+[2024-10-29T10:28:14.390974+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/1403/update  
+
+[2024-10-29T10:28:51.254808+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/1398/update  
+

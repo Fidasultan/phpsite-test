@@ -1,0 +1,6 @@
+[2024-11-14T07:27:05.436872+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://redit.cfd/dxfvgd56  
+
+[2024-11-14T07:28:20.164202+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://redit.cfd/dxfvgd56  
+
+[2024-11-14T16:39:18.788087+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2307/update  
+

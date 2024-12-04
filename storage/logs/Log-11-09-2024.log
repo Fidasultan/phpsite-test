@@ -1,0 +1,26 @@
+[2024-11-09T08:14:11.318064+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-09T08:47:46.773168+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://fifa55ballz.com/dvcd-fbthr  
+
+[2024-11-09T10:54:30.878844+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/1941/update  
+
+[2024-11-09T10:54:35.233107+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/1941/update  
+
+[2024-11-09T13:37:36.884014+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-09T13:39:48.072550+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-09T14:45:11.165355+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-09T18:09:51.496633+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/auth  
+
+[2024-11-09T18:10:06.586672+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-09T18:14:13.199930+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-09T18:19:57.095961+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-09T19:18:47.753454+05:00] system.ERROR: Method not allowed -> http://shortner.live/user/login/auth  
+
+[2024-11-09T19:58:25.109447+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://fifa55ballz.com/i75tyu67  
+

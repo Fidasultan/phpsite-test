@@ -1,0 +1,4 @@
+[2024-11-03T18:47:21.043176+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-03T18:51:55.467224+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+

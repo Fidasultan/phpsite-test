@@ -1,0 +1,6 @@
+[2024-09-11T15:16:15.510368+05:00] system.ERROR: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/core/Localization.class.php:195 -> http://shortner.live/help/search  
+
+[2024-09-11T15:16:15.512134+05:00] system.ERROR: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/core/Localization.class.php:195 -> http://shortner.live/help/search  
+
+[2024-09-11T16:54:34.442617+05:00] system.ERROR: Method not allowed -> http://shortner.live/report/send  
+

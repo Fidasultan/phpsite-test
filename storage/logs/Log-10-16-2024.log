@@ -1,0 +1,4 @@
+[2024-10-16T01:23:17.377906+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/auth  
+
+[2024-10-16T16:38:17.235429+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/6y45e645  
+

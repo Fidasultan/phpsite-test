@@ -1,0 +1,20 @@
+[2024-09-01T15:19:23.045678+00:00] system.ERROR: Method not allowed -> http://shortner.live/user/login/auth  
+
+[2024-09-01T16:56:05.148986+00:00] system.ERROR: Method not allowed -> http://shortner.live/contact/send?=1&_token=$2y$10$L/LZptE5DLFwxh1GOjHVSuuVVLdZh8V82OGyg0yH8G3MQwUKkXSye&email=1&message=1&name=1  
+
+[2024-09-01T16:56:06.918082+00:00] system.ERROR: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/core/Localization.class.php:195 -> http://shortner.live/blog/search  
+
+[2024-09-01T16:56:07.262217+00:00] system.ERROR: Method not allowed -> http://shortner.live/user/login/auth?=1&_token=$2y$10$axNsdpLEPaWXbCtdg0AXse9GN.MU3u8JU/PgxJWZK4tN443Uhg.ES&email=1&password=1&rememberme=1  
+
+[2024-09-01T16:56:07.532823+00:00] system.ERROR: Method not allowed -> http://shortner.live/report/send?=1&_token=$2y$10$L/LZptE5DLFwxh1GOjHVSuuVVLdZh8V82OGyg0yH8G3MQwUKkXSye&email=1&link=1&reason=spam  
+
+[2024-09-01T16:56:09.247197+00:00] system.ERROR: Method not allowed -> http://shortner.live/user/login/forgot/send?=1&_token=$2y$10$IFT1lCe1c3SwsYLBnmc43.1jOJUIQaQ2lTdcZh1NumivnJLRwPl5m&email=1  
+
+[2024-09-01T16:56:09.517094+00:00] system.ERROR: Method not allowed -> http://shortner.live/user/register/validate?=1&_token=$2y$10$L/LZptE5DLFwxh1GOjHVSuuVVLdZh8V82OGyg0yH8G3MQwUKkXSye&cpassword=1&email=1&password=1&terms=1&username=1  
+
+[2024-09-01T16:56:10.195424+00:00] system.ERROR: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/core/Localization.class.php:195 -> http://shortner.live/help/search  
+
+[2024-09-01T16:56:10.196068+00:00] system.ERROR: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/core/Localization.class.php:195 -> http://shortner.live/help/search  
+
+[2024-09-01T16:56:11.952503+00:00] system.ERROR: Method not allowed -> http://shortner.live/contact/send?=1&_token=$2y$10$73BVSooF2JGEBdo3Wa0HoefY5im6UmpXUpaIKdAdqSygUuf.ptmNu&email=1&message=1&name=1  
+

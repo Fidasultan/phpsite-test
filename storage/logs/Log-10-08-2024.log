@@ -1,0 +1,12 @@
+[2024-10-08T03:35:16.009770+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/campaign/:id/update  
+
+[2024-10-08T11:22:07.698133+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/domain/:id/update  
+
+[2024-10-08T13:03:15.075726+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-08T13:03:20.703304+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/register/validate  
+
+[2024-10-08T13:03:24.557271+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/contact/send  
+
+[2024-10-08T14:04:02.481852+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/channel/:channelid/assign/:type/:itemid  
+

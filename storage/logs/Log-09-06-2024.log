@@ -1,0 +1,22 @@
+[2024-09-06T00:19:23.357539+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/domain/:id/delete  
+
+[2024-09-06T00:19:24.311236+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/url/:id/update  
+
+[2024-09-06T00:34:23.319387+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/campaign/:id/update  
+
+[2024-09-06T01:27:48.145218+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/campaign/:id/delete  
+
+[2024-09-06T01:27:49.141359+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/campaign/add  
+
+[2024-09-06T01:55:18.368550+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/qr/:id/update  
+
+[2024-09-06T01:57:28.763592+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/qr/:id/delete  
+
+[2024-09-06T02:27:28.820984+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/channel/:id/update  
+
+[2024-09-06T02:57:28.779100+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/pixel/:id/delete  
+
+[2024-09-06T05:15:56.709959+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/channel/:id/delete  
+
+[2024-09-06T19:09:01.512618+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/account/update  
+

@@ -1,0 +1,112 @@
+[2024-12-04T03:56:02.365456+05:00] system.ERROR: Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in /home/fhadmin/domains/shortner.live/public_html/core/DB.class.php:113
+Stack trace:
+#0 /home/fhadmin/domains/shortner.live/public_html/core/Gem.class.php(114): Core\DB::Connect()
+#1 /home/fhadmin/domains/shortner.live/public_html/public/index.php(23): Gem::Bootstrap()
+#2 {main}
+  thrown -> http://localhost:8000/  
+
+[2024-12-04T04:03:07.250788+05:00] system.ERROR: Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in /var/www/site/core/DB.class.php:113
+Stack trace:
+#0 /var/www/site/core/Gem.class.php(114): Core\DB::Connect()
+#1 /var/www/site/public/index.php(23): Gem::Bootstrap()
+#2 {main}
+  thrown -> http://172.18.175.38/  
+
+[2024-12-04T04:03:21.987475+05:00] system.ERROR: Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in /var/www/site/core/DB.class.php:113
+Stack trace:
+#0 /var/www/site/core/Gem.class.php(114): Core\DB::Connect()
+#1 /var/www/site/public/index.php(23): Gem::Bootstrap()
+#2 {main}
+  thrown -> http://172.18.175.38/  
+
+[2024-12-04T04:21:56.114632+05:00] system.ERROR: Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in /var/www/site/core/DB.class.php:113
+Stack trace:
+#0 /var/www/site/core/Gem.class.php(114): Core\DB::Connect()
+#1 /var/www/site/public/index.php(23): Gem::Bootstrap()
+#2 {main}
+  thrown -> http://172.18.175.38/  
+
+[2024-12-04T04:22:25.439662+05:00] system.ERROR: Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in /var/www/site/core/DB.class.php:113
+Stack trace:
+#0 /var/www/site/core/Gem.class.php(114): Core\DB::Connect()
+#1 /var/www/site/public/index.php(23): Gem::Bootstrap()
+#2 {main}
+  thrown -> http://172.18.175.38/  
+
+[2024-12-04T04:22:26.868328+05:00] system.ERROR: Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in /var/www/site/core/DB.class.php:113
+Stack trace:
+#0 /var/www/site/core/Gem.class.php(114): Core\DB::Connect()
+#1 /var/www/site/public/index.php(23): Gem::Bootstrap()
+#2 {main}
+  thrown -> http://172.18.175.38/  
+
+[2024-12-04T04:22:27.381940+05:00] system.ERROR: Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in /var/www/site/core/DB.class.php:113
+Stack trace:
+#0 /var/www/site/core/Gem.class.php(114): Core\DB::Connect()
+#1 /var/www/site/public/index.php(23): Gem::Bootstrap()
+#2 {main}
+  thrown -> http://172.18.175.38/  
+
+[2024-12-04T04:22:57.175726+05:00] system.ERROR: Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in /var/www/site/core/DB.class.php:113
+Stack trace:
+#0 /var/www/site/core/Gem.class.php(114): Core\DB::Connect()
+#1 /var/www/site/public/index.php(23): Gem::Bootstrap()
+#2 {main}
+  thrown -> http://172.18.175.38/  
+
+[2024-12-04T04:23:02.516676+05:00] system.ERROR: Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in /var/www/site/core/DB.class.php:113
+Stack trace:
+#0 /var/www/site/core/Gem.class.php(114): Core\DB::Connect()
+#1 /var/www/site/public/index.php(23): Gem::Bootstrap()
+#2 {main}
+  thrown -> http://172.18.175.38/  
+
+[2024-12-04T04:23:02.945923+05:00] system.ERROR: Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in /var/www/site/core/DB.class.php:113
+Stack trace:
+#0 /var/www/site/core/Gem.class.php(114): Core\DB::Connect()
+#1 /var/www/site/public/index.php(23): Gem::Bootstrap()
+#2 {main}
+  thrown -> http://172.18.175.38/  
+
+[2024-12-04T04:23:03.151528+05:00] system.ERROR: Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in /var/www/site/core/DB.class.php:113
+Stack trace:
+#0 /var/www/site/core/Gem.class.php(114): Core\DB::Connect()
+#1 /var/www/site/public/index.php(23): Gem::Bootstrap()
+#2 {main}
+  thrown -> http://172.18.175.38/  
+
+[2024-12-04T04:23:03.314377+05:00] system.ERROR: Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in /var/www/site/core/DB.class.php:113
+Stack trace:
+#0 /var/www/site/core/Gem.class.php(114): Core\DB::Connect()
+#1 /var/www/site/public/index.php(23): Gem::Bootstrap()
+#2 {main}
+  thrown -> http://172.18.175.38/  
+
+[2024-12-04T04:23:03.521591+05:00] system.ERROR: Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in /var/www/site/core/DB.class.php:113
+Stack trace:
+#0 /var/www/site/core/Gem.class.php(114): Core\DB::Connect()
+#1 /var/www/site/public/index.php(23): Gem::Bootstrap()
+#2 {main}
+  thrown -> http://172.18.175.38/  
+
+[2024-12-04T04:23:03.691464+05:00] system.ERROR: Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in /var/www/site/core/DB.class.php:113
+Stack trace:
+#0 /var/www/site/core/Gem.class.php(114): Core\DB::Connect()
+#1 /var/www/site/public/index.php(23): Gem::Bootstrap()
+#2 {main}
+  thrown -> http://172.18.175.38/  
+
+[2024-12-04T04:23:03.865420+05:00] system.ERROR: Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in /var/www/site/core/DB.class.php:113
+Stack trace:
+#0 /var/www/site/core/Gem.class.php(114): Core\DB::Connect()
+#1 /var/www/site/public/index.php(23): Gem::Bootstrap()
+#2 {main}
+  thrown -> http://172.18.175.38/  
+
+[2024-12-04T04:23:04.031467+05:00] system.ERROR: Uncaught Error: Undefined constant PDO::MYSQL_ATTR_INIT_COMMAND in /var/www/site/core/DB.class.php:113
+Stack trace:
+#0 /var/www/site/core/Gem.class.php(114): Core\DB::Connect()
+#1 /var/www/site/public/index.php(23): Gem::Bootstrap()
+#2 {main}
+  thrown -> http://172.18.175.38/  
+

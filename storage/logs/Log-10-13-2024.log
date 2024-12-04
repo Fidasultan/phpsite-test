@@ -1,0 +1,66 @@
+[2024-10-13T00:01:02.347177+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/sadfserewrd  
+
+[2024-10-13T00:24:20.403971+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-13T00:24:27.514764+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-13T00:49:19.561352+05:00] system.ERROR: compact(): Undefined variable $pixels occurred in /home/u252139114/domains/shortner.live/public_html/app/controllers/admin/LinksController.php:501 -> http://shortner.live/admin/links/613/edit  
+
+[2024-10-13T00:49:19.953044+05:00] system.ERROR: Undefined variable $pixels occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/links/edit.php:316 -> http://shortner.live/admin/links/613/edit  
+
+[2024-10-13T00:49:19.953116+05:00] system.ERROR: foreach() argument must be of type array|object, null given occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/links/edit.php:316 -> http://shortner.live/admin/links/613/edit  
+
+[2024-10-13T01:01:59.537903+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-13T01:11:30.791507+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-13T01:23:16.868146+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/campaign/:campaignid/assign/:linkid  
+
+[2024-10-13T04:20:06.531594+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/fdgfdgrd  
+
+[2024-10-13T05:00:19.266381+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-13T05:03:28.041096+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-13T07:25:27.967745+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/sadfserewrd  
+
+[2024-10-13T07:27:11.538898+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/sadfserewrd  
+
+[2024-10-13T07:53:39.153920+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-13T08:14:03.012678+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/sadfserewrd  
+
+[2024-10-13T08:19:43.377909+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-13T13:24:32.412353+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-13T14:41:52.700764+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-13T15:36:30.440632+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-13T15:37:51.891492+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/sadfserewrd  
+
+[2024-10-13T15:46:19.465158+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/sadfserewrd  
+
+[2024-10-13T15:46:20.424478+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/sadfserewrd  
+
+[2024-10-13T17:31:31.593547+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/sadfserewrd  
+
+[2024-10-13T20:12:18.154471+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/sadfserewrd  
+
+[2024-10-13T20:52:37.956917+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/sadfserewrd  
+
+[2024-10-13T21:32:20.286495+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-13T22:10:23.547051+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/sadfserewrd  
+
+[2024-10-13T22:10:41.604507+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-13T22:32:26.548569+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/sadfserewrd  
+
+[2024-10-13T23:11:51.619871+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-13T23:28:09.516622+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/sadfserewrd  
+
+[2024-10-13T23:30:11.380484+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/fdgfdgrd  
+

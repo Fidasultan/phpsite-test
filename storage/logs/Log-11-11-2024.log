@@ -1,0 +1,44 @@
+[2024-11-11T10:29:58.793862+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2018/update  
+
+[2024-11-11T10:30:09.757600+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2014/update  
+
+[2024-11-11T10:30:19.263342+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2003/update  
+
+[2024-11-11T10:30:28.398461+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2002/update  
+
+[2024-11-11T10:30:44.138716+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2001/update  
+
+[2024-11-11T10:30:56.909582+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/1996/update  
+
+[2024-11-11T10:31:18.719034+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2000/update  
+
+[2024-11-11T10:31:28.246155+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/1998/update  
+
+[2024-11-11T10:46:26.269056+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-11T11:45:00.125130+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2034/update  
+
+[2024-11-11T11:51:43.909907+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-11T12:06:25.759267+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/1996/update  
+
+[2024-11-11T12:06:52.437514+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/1982/update  
+
+[2024-11-11T12:07:12.679172+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/1977/update  
+
+[2024-11-11T13:02:27.420350+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-11T13:29:30.191374+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-11T14:45:01.064092+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2059/update  
+
+[2024-11-11T14:45:03.199541+05:00] system.ERROR: Trying to access array offset on value of type null occurred in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:723 -> http://shortner.live/user/links/2059/update  
+
+[2024-11-11T19:22:19.664960+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/wtrbjyt  
+
+[2024-11-11T20:47:37.707362+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-11T23:16:02.798977+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+
+[2024-11-11T23:29:18.487391+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://mynet.cfd/t4gftew  
+

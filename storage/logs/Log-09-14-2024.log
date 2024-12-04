@@ -1,0 +1,42 @@
+[2024-09-14T10:01:35.407167+05:00] system.ERROR: compact(): Undefined variable $pixels occurred in /home/u252139114/domains/shortner.live/public_html/app/controllers/admin/LinksController.php:501 -> http://shortner.live/admin/links/172/edit  
+
+[2024-09-14T10:01:35.804695+05:00] system.ERROR: Undefined variable $pixels occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/links/edit.php:316 -> http://shortner.live/admin/links/172/edit  
+
+[2024-09-14T10:01:35.804758+05:00] system.ERROR: foreach() argument must be of type array|object, null given occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/links/edit.php:316 -> http://shortner.live/admin/links/172/edit  
+
+[2024-09-14T10:48:10.450397+05:00] system.ERROR: compact(): Undefined variable $pixels occurred in /home/u252139114/domains/shortner.live/public_html/app/controllers/admin/LinksController.php:501 -> http://shortner.live/admin/links/172/edit  
+
+[2024-09-14T10:48:10.807756+05:00] system.ERROR: Undefined variable $pixels occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/links/edit.php:316 -> http://shortner.live/admin/links/172/edit  
+
+[2024-09-14T10:48:10.807825+05:00] system.ERROR: foreach() argument must be of type array|object, null given occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/links/edit.php:316 -> http://shortner.live/admin/links/172/edit  
+
+[2024-09-14T13:01:58.946729+05:00] system.ERROR: Method not allowed -> http://shortner.live/user/login/auth  
+
+[2024-09-14T13:01:59.387769+05:00] system.ERROR: Method not allowed -> http://shortner.live/report/send  
+
+[2024-09-14T13:02:00.644313+05:00] system.ERROR: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/core/Localization.class.php:195 -> http://shortner.live/blog/search  
+
+[2024-09-14T13:02:02.053709+05:00] system.ERROR: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/core/Localization.class.php:195 -> http://shortner.live/help/search  
+
+[2024-09-14T13:02:02.054792+05:00] system.ERROR: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/core/Localization.class.php:195 -> http://shortner.live/help/search  
+
+[2024-09-14T13:12:02.059987+05:00] system.ERROR: Method not allowed -> http://shortner.live/user/login/forgot/send  
+
+[2024-09-14T14:12:34.359842+05:00] system.ERROR: Uncaught Error: Call to a member function pro() on null in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:480
+Stack trace:
+#0 /home/u252139114/domains/shortner.live/public_html/app/controllers/LinkController.php(84): Link->createLink()
+#1 /home/u252139114/domains/shortner.live/public_html/core/Gem.class.php(263): Link->shorten()
+#2 /home/u252139114/domains/shortner.live/public_html/core/Gem.class.php(160): Gem::Dispatch()
+#3 /home/u252139114/domains/shortner.live/public_html/public/index.php(23): Gem::Bootstrap()
+#4 {main}
+  thrown -> http://shortner.live/shorten  
+
+[2024-09-14T14:13:12.351314+05:00] system.ERROR: Uncaught Error: Call to a member function pro() on null in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:480
+Stack trace:
+#0 /home/u252139114/domains/shortner.live/public_html/app/controllers/LinkController.php(84): Link->createLink()
+#1 /home/u252139114/domains/shortner.live/public_html/core/Gem.class.php(263): Link->shorten()
+#2 /home/u252139114/domains/shortner.live/public_html/core/Gem.class.php(160): Gem::Dispatch()
+#3 /home/u252139114/domains/shortner.live/public_html/public/index.php(23): Gem::Bootstrap()
+#4 {main}
+  thrown -> http://shortner.live/shorten  
+

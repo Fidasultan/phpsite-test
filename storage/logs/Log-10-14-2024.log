@@ -1,0 +1,24 @@
+[2024-10-14T00:58:11.215419+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-14T04:45:50.178284+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-14T07:52:46.656545+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-14T08:36:52.313361+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-14T12:50:22.002010+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-10-14T13:19:06.188463+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/gdfg566665  
+
+[2024-10-14T17:35:00.000923+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/gdfg566665  
+
+[2024-10-14T17:35:01.005610+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/gdfg566665  
+
+[2024-10-14T17:35:01.869154+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/gdfg566665  
+
+[2024-10-14T18:16:19.237342+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/dg54645  
+
+[2024-10-14T21:53:19.277207+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/cbvbcxgf  
+
+[2024-10-14T23:35:57.088349+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://alivin.cfd/fdgfdgrd  
+

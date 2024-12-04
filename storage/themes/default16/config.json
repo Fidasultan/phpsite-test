@@ -1,0 +1,15 @@
+{
+    "name": "Gem Copy",
+    "version": "1.0",
+    "author": "GemPixel",
+    "link": "https://gempixel.com",
+    "date": "01/09/2024",
+    "settings": true,
+    "child": false,
+    "thumbnail": "screenshot.png",
+    "include": [
+        "class/themeSettings.php",
+        "functions.php"
+    ],
+    "assets": []
+}

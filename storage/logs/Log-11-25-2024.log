@@ -1,0 +1,54 @@
+[2024-11-25T01:15:27.974980+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/auth  
+
+[2024-11-25T01:16:09.413708+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-25T03:40:11.761042+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/auth  
+
+[2024-11-25T03:40:25.369224+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-25T03:59:40.466993+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-25T05:05:29.013242+05:00] system.ERROR: mkdir(): File exists occurred in /home/u252139114/domains/shortner.live/public_html/vendor/phpfastcache/phpfastcache/lib/Phpfastcache/Core/Pool/IO/IOHelperTrait.php:97 -> http://fifa55ballz.com/gjrthg  
+
+[2024-11-25T06:15:21.740709+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-25T09:37:12.283313+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/auth  
+
+[2024-11-25T09:37:29.731625+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-25T10:20:29.304424+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-25T10:26:21.474507+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-25T10:58:44.414897+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-25T15:06:04.926325+05:00] system.ERROR: trim(): Passing null to parameter #1 ($string) of type string is deprecated occurred in /home/u252139114/domains/shortner.live/public_html/app/middleware/CSRF.php:51 -> http://shortner.live/user/login/forgot/send  
+
+[2024-11-25T17:09:38.567297+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://alivin.cfd/dfvdfzfdfg  
+
+[2024-11-25T17:09:39.966805+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://fifa55ballz.com/ghdy  
+
+[2024-11-25T17:09:42.612425+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://fifa55ballz.com/ghdy  
+
+[2024-11-25T17:09:45.695809+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://fifa55ballz.com/dgtert  
+
+[2024-11-25T17:09:48.215110+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://fifa55ballz.com/wp-login.php  
+
+[2024-11-25T17:09:48.230803+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://fifa55ballz.com/wp-admin/  
+
+[2024-11-25T17:09:49.982559+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://fifa55ballz.com/feesfe4  
+
+[2024-11-25T17:09:50.886594+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://alivin.cfd/dfxfnxhfnxfgn  
+
+[2024-11-25T17:09:52.260896+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://alivin.cfd/fghgfhd  
+
+[2024-11-25T17:09:52.970600+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://alivin.cfd/fghgfhd  
+
+[2024-11-25T17:09:57.259035+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://fifa55ballz.com/ghdy  
+
+[2024-11-25T17:10:04.334017+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://fifa55ballz.com/vdsfgt4w  
+
+[2024-11-25T17:10:09.184599+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://fifa55ballz.com/kluhi  
+
+[2024-11-25T17:10:09.715194+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://fifa55ballz.com/vdsfgt4w  
+

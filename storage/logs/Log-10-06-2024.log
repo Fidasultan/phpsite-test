@@ -1,0 +1,4 @@
+[2024-10-06T00:30:21.807822+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/domain/:id/update  
+
+[2024-10-06T12:16:06.214348+05:00] system.ERROR: Method not allowed -> http://shortner.live/user/login/auth  
+

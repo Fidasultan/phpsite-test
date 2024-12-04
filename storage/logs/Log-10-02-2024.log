@@ -1,0 +1,24 @@
+[2024-10-02T00:10:20.828681+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://flixur.online/vchgft  
+
+[2024-10-02T02:49:44.333119+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://flixur.online/vchgft  
+
+[2024-10-02T14:52:27.164001+05:00] system.ERROR: Ciphertext has invalid hex encoding. -> http://redit.cfd/djsfhk  
+
+[2024-10-02T14:54:38.642762+05:00] system.ERROR: Uncaught Error: Call to a member function pro() on null in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:480
+Stack trace:
+#0 /home/u252139114/domains/shortner.live/public_html/app/controllers/LinkController.php(84): Link->createLink()
+#1 /home/u252139114/domains/shortner.live/public_html/core/Gem.class.php(263): Link->shorten()
+#2 /home/u252139114/domains/shortner.live/public_html/core/Gem.class.php(160): Gem::Dispatch()
+#3 /home/u252139114/domains/shortner.live/public_html/public/index.php(23): Gem::Bootstrap()
+#4 {main}
+  thrown -> http://shortner.live/shorten  
+
+[2024-10-02T14:54:41.791778+05:00] system.ERROR: Uncaught Error: Call to a member function pro() on null in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:480
+Stack trace:
+#0 /home/u252139114/domains/shortner.live/public_html/app/controllers/LinkController.php(84): Link->createLink()
+#1 /home/u252139114/domains/shortner.live/public_html/core/Gem.class.php(263): Link->shorten()
+#2 /home/u252139114/domains/shortner.live/public_html/core/Gem.class.php(160): Gem::Dispatch()
+#3 /home/u252139114/domains/shortner.live/public_html/public/index.php(23): Gem::Bootstrap()
+#4 {main}
+  thrown -> http://shortner.live/shorten  
+

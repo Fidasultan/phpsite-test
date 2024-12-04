@@ -1,0 +1,2 @@
+[2024-10-04T12:05:51.796834+05:00] system.ERROR: Undefined property: stdClass::$force occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/settings/app.php:104 -> http://shortner.live/admin/settings/app  
+

@@ -1,0 +1,54 @@
+[2024-09-03T03:20:08.939191+05:00] system.ERROR: compact(): Undefined variable $pixels occurred in /home/u252139114/domains/shortner.live/public_html/app/controllers/admin/LinksController.php:501 -> http://shortner.live/admin/links/12/edit  
+
+[2024-09-03T03:20:09.342968+05:00] system.ERROR: Undefined variable $pixels occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/links/edit.php:316 -> http://shortner.live/admin/links/12/edit  
+
+[2024-09-03T03:20:09.343029+05:00] system.ERROR: foreach() argument must be of type array|object, null given occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/links/edit.php:316 -> http://shortner.live/admin/links/12/edit  
+
+[2024-09-03T03:20:48.549894+05:00] system.ERROR: compact(): Undefined variable $pixels occurred in /home/u252139114/domains/shortner.live/public_html/app/controllers/admin/LinksController.php:501 -> http://shortner.live/admin/links/12/edit  
+
+[2024-09-03T03:20:48.932667+05:00] system.ERROR: Undefined variable $pixels occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/links/edit.php:316 -> http://shortner.live/admin/links/12/edit  
+
+[2024-09-03T03:20:48.932729+05:00] system.ERROR: foreach() argument must be of type array|object, null given occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/links/edit.php:316 -> http://shortner.live/admin/links/12/edit  
+
+[2024-09-03T03:27:04.538611+05:00] system.ERROR: compact(): Undefined variable $pixels occurred in /home/u252139114/domains/shortner.live/public_html/app/controllers/admin/LinksController.php:501 -> http://shortner.live/admin/links/12/edit  
+
+[2024-09-03T03:27:04.980896+05:00] system.ERROR: Undefined variable $pixels occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/links/edit.php:316 -> http://shortner.live/admin/links/12/edit  
+
+[2024-09-03T03:27:04.980967+05:00] system.ERROR: foreach() argument must be of type array|object, null given occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/links/edit.php:316 -> http://shortner.live/admin/links/12/edit  
+
+[2024-09-03T05:55:53.840183+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/pixel/add  
+
+[2024-09-03T06:55:53.841727+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/account/update  
+
+[2024-09-03T06:55:54.773726+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/domain/add  
+
+[2024-09-03T14:32:30.429158+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/url/:id/update  
+
+[2024-09-03T17:06:46.479064+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/url/:id/delete  
+
+[2024-09-03T17:32:29.269819+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/pixel/:id/update  
+
+[2024-09-03T17:46:07.545588+05:00] system.ERROR: Undefined property: stdClass::$force occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/settings/app.php:104 -> http://shortner.live/admin/settings/app  
+
+[2024-09-03T17:58:12.146855+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/channel/:id/update  
+
+[2024-09-03T18:23:54.974574+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/pixel/:id/delete  
+
+[2024-09-03T18:35:50.107630+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/qr/:id/update  
+
+[2024-09-03T18:47:20.303991+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/domain/:id/delete  
+
+[2024-09-03T19:09:03.265465+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/qr/:id/delete  
+
+[2024-09-03T19:32:06.618018+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/campaign/add  
+
+[2024-09-03T19:32:07.560416+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/channel/:id/delete  
+
+[2024-09-03T19:55:23.858821+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/campaign/:id/delete  
+
+[2024-09-03T20:17:24.286211+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/domain/:id/update  
+
+[2024-09-03T21:08:08.690578+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/campaign/:id/update  
+
+[2024-09-03T21:47:25.673035+05:00] system.ERROR: Method not allowed -> http://shortner.live/api/campaign/:id/update  
+

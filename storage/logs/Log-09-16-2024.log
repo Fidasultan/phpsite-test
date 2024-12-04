@@ -1,0 +1,36 @@
+[2024-09-16T20:50:06.591356+05:00] system.ERROR: Uncaught Error: Call to a member function pro() on null in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:480
+Stack trace:
+#0 /home/u252139114/domains/shortner.live/public_html/app/controllers/LinkController.php(84): Link->createLink()
+#1 /home/u252139114/domains/shortner.live/public_html/core/Gem.class.php(263): Link->shorten()
+#2 /home/u252139114/domains/shortner.live/public_html/core/Gem.class.php(160): Gem::Dispatch()
+#3 /home/u252139114/domains/shortner.live/public_html/public/index.php(23): Gem::Bootstrap()
+#4 {main}
+  thrown -> http://shortner.live/shorten  
+
+[2024-09-16T20:50:21.701503+05:00] system.ERROR: Uncaught Error: Call to a member function pro() on null in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:480
+Stack trace:
+#0 /home/u252139114/domains/shortner.live/public_html/app/controllers/LinkController.php(84): Link->createLink()
+#1 /home/u252139114/domains/shortner.live/public_html/core/Gem.class.php(263): Link->shorten()
+#2 /home/u252139114/domains/shortner.live/public_html/core/Gem.class.php(160): Gem::Dispatch()
+#3 /home/u252139114/domains/shortner.live/public_html/public/index.php(23): Gem::Bootstrap()
+#4 {main}
+  thrown -> http://shortner.live/shorten  
+
+[2024-09-16T20:50:30.270529+05:00] system.ERROR: Uncaught Error: Call to a member function pro() on null in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:480
+Stack trace:
+#0 /home/u252139114/domains/shortner.live/public_html/app/controllers/LinkController.php(84): Link->createLink()
+#1 /home/u252139114/domains/shortner.live/public_html/core/Gem.class.php(263): Link->shorten()
+#2 /home/u252139114/domains/shortner.live/public_html/core/Gem.class.php(160): Gem::Dispatch()
+#3 /home/u252139114/domains/shortner.live/public_html/public/index.php(23): Gem::Bootstrap()
+#4 {main}
+  thrown -> http://shortner.live/shorten  
+
+[2024-09-16T20:50:33.603517+05:00] system.ERROR: Uncaught Error: Call to a member function pro() on null in /home/u252139114/domains/shortner.live/public_html/app/traits/Links.php:480
+Stack trace:
+#0 /home/u252139114/domains/shortner.live/public_html/app/controllers/LinkController.php(84): Link->createLink()
+#1 /home/u252139114/domains/shortner.live/public_html/core/Gem.class.php(263): Link->shorten()
+#2 /home/u252139114/domains/shortner.live/public_html/core/Gem.class.php(160): Gem::Dispatch()
+#3 /home/u252139114/domains/shortner.live/public_html/public/index.php(23): Gem::Bootstrap()
+#4 {main}
+  thrown -> http://shortner.live/shorten  
+

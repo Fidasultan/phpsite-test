@@ -1,0 +1,38 @@
+[2024-10-03T15:34:27.348823+05:00] system.ERROR: compact(): Undefined variable $pixels occurred in /home/u252139114/domains/shortner.live/public_html/app/controllers/admin/LinksController.php:501 -> http://shortner.live/admin/links/776/edit  
+
+[2024-10-03T15:34:27.741613+05:00] system.ERROR: Undefined variable $pixels occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/links/edit.php:316 -> http://shortner.live/admin/links/776/edit  
+
+[2024-10-03T15:34:27.741697+05:00] system.ERROR: foreach() argument must be of type array|object, null given occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/links/edit.php:316 -> http://shortner.live/admin/links/776/edit  
+
+[2024-10-03T15:55:35.014957+05:00] system.ERROR: Undefined property: stdClass::$force occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/settings/app.php:104 -> http://shortner.live/admin/settings/app  
+
+[2024-10-03T16:00:10.694290+05:00] system.ERROR: Undefined property: stdClass::$force occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/settings/app.php:104 -> http://shortner.live/admin/settings/app  
+
+[2024-10-03T16:00:24.214076+05:00] system.ERROR: Undefined property: stdClass::$force occurred in /home/u252139114/domains/shortner.live/public_html/storage/themes/default/admin/settings/app.php:104 -> http://shortner.live/admin/settings/app  
+
+[2024-10-03T11:29:42.468720+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://msnvx.cfd/GVFDG  
+
+[2024-10-03T11:29:48.304734+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://redit.cfd/dgdgdr  
+
+[2024-10-03T11:29:53.475199+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://xbeta.cfd/rgbfx  
+
+[2024-10-03T12:56:50.886083+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://shortner.live/user/login  
+
+[2024-10-03T12:56:52.382734+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://alivin.cfd/dgdgdr  
+
+[2024-10-03T12:56:52.871486+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://alivin.cfd/gnhnbv  
+
+[2024-10-03T12:56:53.007630+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://shortner.live/admin/links?page=2  
+
+[2024-10-03T12:56:53.485089+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://shortner.live/user/login  
+
+[2024-10-03T12:56:53.796875+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://flixur.online/dsewrwrew  
+
+[2024-10-03T12:56:56.277090+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://alivin.cfd/gnhnbv  
+
+[2024-10-03T12:56:56.687797+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://shortner.live/user/login  
+
+[2024-10-03T12:56:57.486122+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://shortner.live/user/login  
+
+[2024-10-03T12:56:58.196289+00:00] system.ERROR: Cannot find the settings table. Please make sure the tables are imported correctly. -> http://shortner.live/user/login  
+
