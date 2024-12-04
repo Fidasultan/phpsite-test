@@ -19,7 +19,7 @@
  */
   
   // Database Configuration
-  define('DBhost', 'localhost');      // Your mySQL Host (usually Localhost)
+  define('DBhost', '172.191.170.162');      // Your mySQL Host (usually Localhost)
   define('DBname', 'shortnerlive_db');         // The database name where the data will be stored
   define('DBuser', 'rsadmin');         // Your mySQL username
   define('DBpassword', 'Xo>DuN?sce[8');        //  Your mySQL Password 
